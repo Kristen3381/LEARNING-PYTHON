@@ -22,3 +22,6 @@ print("  *   *")
 print("  *   *")
 print("  *****")
 print(0o123) 
+var = "3.8.5"
+print("Python version: " + var)
+
